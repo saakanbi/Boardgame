@@ -1,5 +1,6 @@
 package com.javaproject.beans;
 
+// Fixed Lombok compilation issues by adding explicit getters/setters
 public class Review {
 
     private Long id;

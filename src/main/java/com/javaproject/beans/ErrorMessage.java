@@ -1,5 +1,6 @@
 package com.javaproject.beans;
 
+// Fixed Lombok compilation issues by adding explicit constructor and getters/setters
 public class ErrorMessage {
     private final String STATUS = "error";
     private String message;

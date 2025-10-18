@@ -2,6 +2,7 @@ package com.javaproject.beans;
 
 import java.util.List;
 
+// Fixed Lombok compilation issues by adding explicit getters/setters
 public class BoardGame {
 
     private Long id;
